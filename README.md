@@ -5,6 +5,7 @@
 /usr/local/php/sbin/php-fpm
 /usr/local/php/etc/php-fpm.conf
 /usr/local/php/etc/php.ini
+
 一，php-fpm的启动参数
 
 复制代码 代码如下:
